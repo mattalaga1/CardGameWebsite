@@ -5,18 +5,26 @@ This project is meant to be an exploration of fullstack web development technolo
 
 ## Details
 
-# Backend
+### Backend
 
 Python Django REST framework.
 
-# Database
+### Database
 
 _To do._
 
-# Frontend
+### Frontend
 
 _To do._
 
 ## Deployment
 
 Use GitHub Actions to automate CI/CD pipeline. Use Docker to containerize services.
+
+### GitHub Actions
+
+- Run pre-commit checks.
+
+### TODO
+
+- [ ] Build, test, and deploy Docker images.
